@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589219645 source:c:\users\foryoul3aby\desktop\prolab2-2-training\deneme-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589741125 source:c:\users\ziya«\desktop\deneme-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
